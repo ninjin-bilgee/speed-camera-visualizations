@@ -11,8 +11,12 @@ This project analyzes traffic violations across NYC using open datasets, focusin
 
 Two complementary maps were created:  
 
-1. **Heatmap** – Aggregates violation points to show areas with the highest density of traffic violations.  
-2. **Severity Map** – Displays actual locations of cameras, red lights, and sampled violations, color-coded for easy interpretation.  
+1. **Heatmap** – Aggregates violation points to show areas with the highest density of traffic violations.
+
+   Link: https://ninjin-bilgee.github.io/speed-camera-visualizations/index.html
+2. **Severity Map** – Displays actual locations of cameras, red lights, and sampled violations, color-coded for easy interpretation.
+
+   Link: https://ninjin-bilgee.github.io/speed-camera-visualizations/severityMap.html
 
 These visualizations help explore urban traffic patterns and enforcement effectiveness in a clear, interactive way so we can apply our findings to other cities and urban areas.
 
@@ -25,7 +29,6 @@ These visualizations help explore urban traffic patterns and enforcement effecti
 - Compared findings and patterns from the Chicago dataset to apply to NYC.
 - Applied time-series, bar, line, and geo-spatial analyses to assess speed camera efficiency.  
 - Collaborated with a team of two to deliver actionable findings.  
-
 
 
 
